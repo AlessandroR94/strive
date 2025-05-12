@@ -57,7 +57,7 @@ const Login = () => {
 
       <div style={{ marginTop: "2rem" }}>
         <p>oppure</p>
-        <a href="http://localhost:3001/auth/google">
+        <a href="https://test-node-heroku-a5b89d945dba.herokuapp.com/auth/google">
           <button style={{ backgroundColor: "#4285F4", color: "white", padding: "0.5rem 1rem", border: "none", cursor: "pointer" }}>
             Accedi con Google
           </button>
