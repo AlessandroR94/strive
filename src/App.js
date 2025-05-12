@@ -8,7 +8,7 @@ import NewBlogPost from "./views/new/New";
 import Login from "./views/login/Login";
 import Register from "./views/register/Register";
 import ProfiloUtente from "./views/profilo/ProfiloUtente";
-import ModificaProfilo from "./views/profilo/ModificaProfilo"; // ✅ nuova pagina
+import ModificaProfilo from "./views/profilo/ModificaProfilo";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
